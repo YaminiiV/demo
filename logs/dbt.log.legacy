@@ -1,0 +1,1523 @@
+2022-08-25 14:18:18.964722 (MainThread): _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+2022-08-25 14:18:18.973748 (MainThread): _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+2022-08-25 14:18:19.016851 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.016851 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.018854 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.018854 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.018854 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.018854 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.018854 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.018854 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.018854 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.018854 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.018854 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.018854 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.038456 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.038456 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.039553 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.039671 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.039671 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.039671 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.039671 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.039671 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.039671 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.039671 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.039671 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.040807 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.040807 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.040807 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.040807 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.040807 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.040807 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.040807 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.040807 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.040807 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.041795 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.041795 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.041795 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.041795 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.041795 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.041795 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.041795 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.041795 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.041795 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.041795 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.041795 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.041795 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.041795 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.041795 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.042831 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.042831 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.042831 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.042831 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.042831 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.042831 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.042831 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.042831 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.042831 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.042831 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.042831 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.042831 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.043796 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.043796 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.043796 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.043796 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.043796 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.043796 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.043796 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.043796 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.043796 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.043796 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.044795 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.044795 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.044795 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.044795 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.044795 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.044795 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.044795 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.044795 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.044795 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.044795 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.044795 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.045796 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.045796 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.045796 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.045796 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.045796 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.045796 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.045796 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.045796 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.045796 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.046825 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.046825 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.046825 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.046825 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.046825 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.046825 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.046825 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.046825 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.047805 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.047805 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.047805 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.047805 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.047805 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.047805 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.047805 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.047805 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.047805 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.047805 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.048811 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.048811 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.048811 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.048811 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.048811 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.048811 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.048811 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.048811 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.048811 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.048811 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.049810 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.049810 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.049810 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.049810 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.049810 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.049810 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.049810 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.049810 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.049810 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.049810 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.050810 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.050810 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.050810 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.050810 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.050810 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.050810 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.050810 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.050810 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.050810 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.050810 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.051804 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.051804 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.051804 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.051804 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.051804 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.051804 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.051804 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.051804 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.051804 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.051804 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.051804 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.051804 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.051804 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.052810 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.052810 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.052810 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.052810 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.052810 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.052810 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.052810 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.052810 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.052810 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.052810 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.052810 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.052810 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.052810 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.053799 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.053799 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.053799 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.053799 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.053799 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.053799 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.053799 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.053799 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.053799 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.053799 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.053799 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.053799 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.053799 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.054803 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.054887 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.054887 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.054887 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.054887 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.054887 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.054887 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.056308 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.056308 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.056308 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.056308 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.056308 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.056308 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.056308 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.056308 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.056308 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.056308 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.057307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.057307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.057307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.057307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.057307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.057307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.057307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.057307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.057307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.057307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.057307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.057307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.058307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.058307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.058307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.058307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.058307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.058307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.058307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.058307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.058307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.058307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.058307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.059307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.059307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.059307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.059307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.059307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.059307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.059307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.059307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.059307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.059307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.059307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.060307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.060307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.060307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.060307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.060307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.060307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.060307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.060307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.060307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.060307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.060307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.061307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.061307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.061307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.061307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.061307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.061307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.061307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.061307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.061307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.061307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.061307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.061307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.062307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.062307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.062307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.062307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.062307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.062307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.062307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.062307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.062307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.062307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.062307 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.062307 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.063306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.063306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.063306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.063306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.063306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.063306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.063306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.063306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.063306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.063306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.063306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.063306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.063306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.063306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.064306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.064306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.064306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.064306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.064306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.064306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.064306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.064306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.064306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.064306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.064306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.064306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.064306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.064306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.064306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.064306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.065306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.065306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.065306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.065306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.065306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.065306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.065306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.065306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.065306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.065306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.065306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.065306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.065306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.065306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.065306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.066306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.066306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.066306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.066306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.066306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.066306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.066306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.066306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.066306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.066306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.066306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.066306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.066306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.066306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.066306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.066306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.066306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.066306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.067306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.067306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.067306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.067306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.067306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.067306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.067306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.067306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.067306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.067306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.067306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.067306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.067306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.067306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.067306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.067306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.067306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.067306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.067306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.067306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.068306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.068306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.068306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.068306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.068306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.068306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.068306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.068306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.068306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.068306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.068306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.068306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.068306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.068306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.068306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.068306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.068306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.068306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.068306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.068306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.069306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.069306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.069306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.069306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.069306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.069306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.069306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.069306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.069306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.069306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.069306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.069306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.069306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.069306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.069306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.069306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.069306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.069306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.069306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.069306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.069306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.070306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.070306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.070306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.070306 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.070306 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.071496 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.071496 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.071496 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.071496 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.072261 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.072261 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.072482 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.072674 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.072822 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.072822 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.073383 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.073383 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.073816 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.073816 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.074038 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.074090 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.074090 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.074090 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.074631 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.074631 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.074850 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.074905 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.075195 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.075195 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.075592 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.075680 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.075754 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.075754 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.076001 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.076097 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.076097 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.076097 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.076443 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.076443 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.076746 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.076746 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.077091 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.077091 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.077305 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.077456 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.077569 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.077569 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.077569 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.077569 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.077569 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.078058 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.078372 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.078595 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.078595 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.078835 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.078918 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.079092 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.079298 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.079298 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.079298 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.079298 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.079298 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.079848 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.080038 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.080038 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.080440 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.080440 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.080784 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.080832 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.081039 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.081072 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.081135 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.081135 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.081385 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.081583 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.081583 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.081583 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.081583 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.081583 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.082211 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.082211 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.082211 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.082523 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.082523 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.082724 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.082797 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.082888 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.082937 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.082937 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.082937 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.082937 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.083365 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.083365 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.083588 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.083632 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.083741 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.083741 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.083741 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.083741 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.083741 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.083741 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.084484 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.084484 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.084484 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.085112 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.085177 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.085334 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.085334 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.085334 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.085889 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.085889 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.086174 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.086174 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.086473 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.086750 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.086750 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.086750 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.086750 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.086750 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.086750 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.086750 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.086750 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.087758 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.087758 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.087758 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.088083 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.088139 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.088139 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.088139 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.088551 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.088551 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.088850 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.089021 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.090267 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.090308 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.090308 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.090308 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.090308 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.090308 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.090308 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.090308 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.090308 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.090308 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.090308 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.090308 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.090308 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.090308 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.090308 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.091445 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.091445 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.091445 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.091445 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.091445 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.091445 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.091445 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.091445 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.091445 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.091445 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.091445 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.091445 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.091445 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.091445 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.091445 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.091445 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.091445 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.091445 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.091445 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.092428 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.092428 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.092428 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.092428 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.092428 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.092428 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.092428 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.092428 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.092428 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.092428 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.092428 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.092428 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.092428 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.092428 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.092428 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.092428 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.092428 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.092428 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.093443 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.093443 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.093443 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.093443 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.093443 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.093443 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.093443 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.093443 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.093443 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.093443 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.093443 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.093443 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.093443 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.093443 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.093443 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.093443 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.093443 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.093443 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.094430 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.094430 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.094430 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.094430 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.094430 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.094430 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-25 14:18:19.094430 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-25 14:18:19.094430 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:10.994462 (MainThread): _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+2022-08-29 03:49:10.998455 (MainThread): _SixMetaPathImporter.find_spec() not found; falling back to find_module()
+2022-08-29 03:49:11.043869 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.043869 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.044873 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.045872 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.045872 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.045872 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.045872 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.045872 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.045872 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.045872 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.045872 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.045872 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.045872 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.045872 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.045872 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.045872 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.045872 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.045872 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.045872 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.046871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.046871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.046871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.046871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.046871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.046871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.046871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.046871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.046871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.046871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.047872 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.047872 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.047872 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.047872 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.047872 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.047872 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.047872 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.047872 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.047872 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.047872 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.047872 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.047872 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.047872 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.047872 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.047872 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.047872 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.047872 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.047872 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.048871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.048871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.048871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.048871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.048871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.048871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.048871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.048871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.048871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.048871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.048871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.048871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.048871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.048871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.048871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.048871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.048871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.048871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.048871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.049870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.049870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.049870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.049870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.049870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.049870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.049870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.049870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.049870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.049870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.049870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.049870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.049870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.049870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.049870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.049870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.049870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.049870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.049870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.049870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.049870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.050870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.050870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.050870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.050870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.050870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.050870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.050870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.050870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.050870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.050870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.050870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.050870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.050870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.050870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.050870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.050870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.050870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.050870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.050870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.050870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.051870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.051870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.051870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.051870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.051870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.051870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.051870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.051870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.051870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.051870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.051870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.051870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.051870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.051870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.051870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.051870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.051870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.051870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.051870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.052871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.052871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.052871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.052871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.052871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.052871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.052871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.052871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.052871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.052871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.052871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.052871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.052871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.052871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.052871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.052871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.052871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.052871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.052871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.052871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.052871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.053870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.053870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.053870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.053870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.053870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.053870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.053870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.053870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.053870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.053870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.053870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.053870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.053870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.053870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.053870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.053870 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.053870 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.054871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.054871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.054871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.054871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.054871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.054871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.054871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.054871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.054871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.054871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.054871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.054871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.054871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.054871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.054871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.054871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.054871 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.054871 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.055983 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.055983 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.055983 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.055983 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.055983 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.055983 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.056523 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.056523 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.056523 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.056523 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.056523 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.056523 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.056523 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.056523 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.056523 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.057160 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.057160 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.057160 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.057160 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.057160 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.057160 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.057537 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.057537 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.057537 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.057537 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.057537 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.057537 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.057537 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.057537 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.057537 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.057537 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.057537 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.057537 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.057537 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.057537 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.057537 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.057537 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.057537 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.057537 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.057537 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.058536 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.058536 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.058536 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.058536 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.058536 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.058536 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.058536 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.058536 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.058536 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.058536 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.058536 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.058536 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.058536 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.058536 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.058536 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.058536 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.058536 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.058536 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.058536 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.059540 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.059540 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.059540 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.059540 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.059540 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.059540 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.059540 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.059540 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.059540 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.059540 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.060045 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.060053 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.060053 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.060183 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.060183 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.060183 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.060183 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.060183 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.060183 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.060183 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.060183 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.060183 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.060183 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.060183 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.060183 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.060183 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.060183 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.060183 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.060183 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.060183 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.060183 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.061052 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.061052 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.061052 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.061052 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.061052 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.061052 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.061052 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.061052 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.061052 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.061052 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.061052 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.061052 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.061052 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.061052 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.061052 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.061052 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.061052 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.061052 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.062053 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.062053 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.062053 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.062053 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.062053 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.062053 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.062053 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.062053 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.062053 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.062053 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.062053 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.062053 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.062053 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.062053 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.062053 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.062053 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.062053 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.062053 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.062053 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.062053 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.063054 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.063054 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.063054 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.063054 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.063054 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.063054 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.063054 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.063054 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.063054 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.063563 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.063630 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.063630 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.063630 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.063630 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.063630 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.063630 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.063630 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.063630 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.063630 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.063630 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.063630 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.063630 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.063630 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.063630 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.063630 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.063630 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.064578 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.064578 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.064578 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.064578 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.064578 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.064578 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.064578 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.064578 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.064578 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.064578 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.064578 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.064578 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.064578 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.064578 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.064578 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.064578 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.064578 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.064578 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.065579 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.065579 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.065579 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.065579 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.065579 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.065579 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.065579 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.065579 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.065579 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.065579 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.065579 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.065579 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.065579 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.065579 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.065579 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.065579 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.065579 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.065579 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.065579 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.065579 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.066581 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.066581 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.066581 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.066581 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.066581 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.066581 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.066581 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.066581 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.066581 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.066581 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.067094 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.067094 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.067236 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.067236 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.067236 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.067236 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.067236 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.067236 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.067236 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.067236 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.067236 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.067236 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.067236 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.067236 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.067236 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.067236 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.067236 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.067236 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.067236 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.068093 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.068093 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.068093 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.068093 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.068093 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.068093 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.068093 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.068093 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.068093 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.068093 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.068093 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.068093 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.068093 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.068093 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.068093 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.068093 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.068093 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.068093 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.068093 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.068093 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.069093 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.069093 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.069093 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.069093 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.069093 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.069093 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.069093 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.069093 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.069093 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.069093 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.069093 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.069093 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.069093 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.069093 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.069093 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.069093 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.069093 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.069093 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.069093 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.070096 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.070096 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.070096 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.070096 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.070096 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.070096 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.070096 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.070096 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.070096 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.070096 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.070611 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.070611 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.070737 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.070737 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.070737 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.070737 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.070737 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.070737 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.070737 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.070737 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.070737 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.070737 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.070737 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.070737 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.070737 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.070737 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.070737 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.070737 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.070737 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.070737 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.071610 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.071610 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.071610 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.071610 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.071610 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.071610 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.071610 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.071610 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.071610 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.071610 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.071610 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.071610 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.072611 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.072611 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.072611 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.072611 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.072919 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.072919 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.072919 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.072919 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.072919 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.072919 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.072919 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.073333 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.073460 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.073460 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.073460 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.073460 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.073460 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.073460 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.073460 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.073460 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.073927 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.073927 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 03:49:11.073927 (MainThread): currentThread() is deprecated, use current_thread() instead
+2022-08-29 03:49:11.073927 (MainThread): getName() is deprecated, get the name attribute instead
+2022-08-29 04:13:25.351203 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-08-29 04:13:25.353906 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-08-29 04:13:25.355905 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-08-29 04:13:25.356905 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-08-29 04:13:25.372908 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-29 05:12:12.218964 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-08-29 05:12:12.220965 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-08-29 05:12:12.231965 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-29 05:12:47.715531 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-08-29 05:12:47.717548 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-08-29 05:12:47.730080 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-29 05:13:08.961836 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-08-29 05:13:08.963837 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-08-29 05:13:08.975038 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-29 05:14:21.044414 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-08-29 05:14:21.046078 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-08-29 05:14:21.057350 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-29 05:14:33.718794 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-08-29 05:14:33.720791 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-08-29 05:14:33.731059 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-29 05:14:57.921644 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-08-29 05:14:57.925647 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-08-29 05:14:57.942687 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-29 05:32:26.786462 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-29 05:32:38.265964 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-29 12:18:30.153822 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-29 12:18:36.528634 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-29 12:22:32.810962 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-29 12:22:46.678422 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-29 12:28:14.931676 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-30 03:28:37.831738 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-30 03:29:15.514847 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-30 05:36:28.608188 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-30 05:36:57.810966 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-30 05:43:02.694502 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-30 05:47:39.358111 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-30 05:47:39.371624 (MainThread): The 'warn' method is deprecated, use 'warning' instead
+2022-08-30 06:09:04.948415 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-08-30 06:09:04.950417 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-08-30 06:09:04.964417 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-30 06:09:12.339420 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-30 06:10:09.447628 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-08-30 06:10:09.449629 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-08-30 06:10:09.459894 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-30 06:19:26.072662 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-30 06:19:30.943377 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-30 06:24:34.931055 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-30 06:24:39.021426 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-30 06:24:44.271535 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-30 06:24:50.168502 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-30 06:25:13.881076 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-31 05:56:51.201328 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-08-31 05:56:58.527756 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 03:38:34.878274 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 03:38:40.720239 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 03:40:07.235873 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 03:40:07.237875 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 03:40:07.248715 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 04:45:14.581793 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 04:58:19.110606 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 05:00:18.357598 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 05:02:57.033473 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 05:03:14.424178 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 05:03:20.138661 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 05:03:36.138735 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 05:05:28.157888 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 05:05:28.158889 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 05:10:40.859724 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 05:10:40.861731 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 05:10:40.870729 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 05:12:38.407770 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 05:12:38.409759 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 05:13:32.935241 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 05:13:32.936513 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 05:14:23.035920 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 05:14:23.037900 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 05:15:04.116970 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 05:15:04.117945 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 05:15:04.126930 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 05:22:53.962472 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 05:24:25.482017 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 06:35:17.236468 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 06:36:12.995598 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 06:36:12.996597 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 06:36:13.006587 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 06:43:11.369046 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 07:05:59.575868 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 07:05:59.577871 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 07:06:26.773985 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 07:06:26.776985 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 07:06:26.797990 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 07:06:27.010921 (Thread-1): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 07:06:27.010921 (Thread-1): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 07:06:27.011919 (Thread-1): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 07:09:40.168528 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 07:11:28.500043 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 07:12:29.338629 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 07:12:42.553191 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 07:13:30.544106 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 07:14:13.405202 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 07:17:45.332664 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 07:21:39.213531 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 07:21:39.215986 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 07:21:39.230110 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 07:21:57.612641 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 07:21:57.614633 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 07:21:57.628637 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 07:23:24.071958 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 07:41:00.959983 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 08:21:36.947201 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 08:25:20.015552 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 08:30:03.603284 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 08:31:04.524640 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 08:31:54.181350 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 08:32:17.985418 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 08:34:23.587879 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 08:36:55.191035 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 08:38:20.993780 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 08:38:37.160295 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 08:38:55.103902 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 08:45:06.466531 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 08:47:17.967955 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 08:49:00.875526 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 08:50:45.184195 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 08:56:27.798065 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:00:53.920869 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:05:51.941015 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:06:43.200793 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:07:36.508874 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:08:30.755010 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:10:07.993792 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:10:47.322638 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:16:08.019666 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:16:44.780813 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:17:10.264624 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:17:27.687011 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:17:52.257198 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:34:45.459199 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:34:54.521730 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:35:36.533813 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:36:35.300279 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:43:17.019266 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:43:41.358479 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:44:42.234706 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:44:56.744504 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:45:45.617706 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:46:06.670913 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:46:38.127593 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:47:47.892926 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:51:15.578125 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:53:02.993548 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:54:03.738088 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:54:51.949311 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:56:39.232521 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 09:59:10.111473 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 10:00:32.003939 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 10:01:05.083223 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 10:03:55.283914 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 10:04:25.702707 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 10:04:57.347272 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 10:09:01.228497 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 10:48:40.797368 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 10:59:52.239399 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:00:00.313829 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:02:10.795467 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:02:10.798480 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:02:10.807556 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:02:45.255937 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:02:45.257958 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:02:45.267952 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:03:11.223938 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:04:10.622489 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:04:10.634416 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:11:03.358969 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:11:03.359973 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:11:03.369974 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:11:44.601306 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:11:44.602314 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:11:44.613408 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:12:22.357385 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:12:22.359384 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:12:22.370384 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:12:34.987949 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:12:41.865179 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:14:17.726881 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:14:17.728881 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:14:17.738880 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:15:44.454010 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:15:44.456010 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:15:44.466144 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:16:16.597563 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:16:16.599567 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:16:16.610714 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:16:56.581112 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:16:56.582667 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:16:56.593672 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:17:20.973732 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:17:20.975734 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:17:20.985734 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:18:43.553129 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:18:43.555736 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:18:43.568351 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:19:53.223948 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:19:53.226279 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:19:53.237226 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:24:33.844552 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:24:44.829452 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:51:22.717677 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:51:22.745976 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:52:21.930875 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:52:21.948075 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:52:45.274784 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:53:58.185554 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:53:58.197556 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-01 11:54:38.004989 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-01 11:54:38.024578 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-02 01:09:53.917185 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-02 05:39:04.273369 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-02 05:39:12.097548 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-02 05:39:18.138610 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-02 05:41:13.268499 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-03 13:48:44.119581 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 04:01:24.090959 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 04:01:37.865846 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 04:01:43.087505 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 04:01:58.410986 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 04:24:08.037154 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 04:24:08.055159 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 04:24:30.073045 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 04:24:30.086589 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 04:50:32.991083 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 04:50:33.006065 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 04:51:26.812162 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 04:51:26.827160 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 04:51:54.780297 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 04:51:54.809602 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 04:52:31.235774 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 04:52:31.250780 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 04:53:23.166040 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 04:53:23.181336 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 06:13:09.852393 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 06:13:20.246683 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 06:13:20.262845 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 06:13:42.381732 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 06:13:42.393014 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 06:14:40.206813 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 06:14:40.217533 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 06:16:54.690345 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 06:16:54.701496 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 06:18:16.108159 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 06:18:16.120159 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 06:24:54.500525 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 06:24:54.510705 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 06:25:00.909982 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 06:26:38.481852 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 06:26:38.492852 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 06:27:27.920672 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 06:27:27.931072 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 06:27:34.164503 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 08:05:10.168600 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 08:05:10.187807 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 08:08:39.816245 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 08:08:39.828190 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 08:09:11.110962 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 08:10:06.922909 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 08:10:50.142143 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 08:11:34.339254 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 08:12:31.358518 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 08:14:02.521185 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 08:14:56.865914 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 08:18:19.668621 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 08:20:51.109179 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 08:21:18.340470 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 08:36:37.747649 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 08:36:37.760674 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 08:42:50.359552 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 08:42:50.376455 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 08:42:56.164428 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 08:43:30.348269 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 08:43:30.362623 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 08:43:55.084782 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 08:43:55.098675 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 08:44:19.915098 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 08:44:19.935096 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 08:55:24.185905 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 08:55:24.191901 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 08:55:24.205905 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 08:58:27.376704 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 09:02:08.974405 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 09:02:08.992413 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 09:10:16.339206 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 09:12:33.248471 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 09:14:49.671939 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 09:22:56.953795 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 09:22:56.956797 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 09:22:56.992800 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 09:23:48.335735 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 09:23:48.353811 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 09:25:54.421970 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 09:25:54.426970 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 09:25:54.471912 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 09:27:53.254572 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 09:28:08.255310 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 09:28:19.434455 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 09:29:19.045798 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 09:29:19.059795 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 09:42:44.651923 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 09:42:44.669410 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-05 09:48:09.526243 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-05 09:48:09.542247 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 03:47:00.858592 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 03:47:16.687384 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 03:50:17.490494 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 03:51:21.514513 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 03:57:01.749058 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 03:57:01.755059 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 03:57:01.783052 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 03:57:26.538447 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 03:57:31.433803 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 04:19:14.768879 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 04:19:57.431216 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 04:24:50.761038 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 04:24:50.771997 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 04:24:50.794021 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 04:24:50.804998 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 04:26:36.479251 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 04:29:10.465759 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 04:33:04.907476 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 04:33:10.135820 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 04:37:03.838666 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 06:04:39.526191 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 06:04:47.304029 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 06:04:55.201328 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 06:06:19.871941 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 06:50:55.308355 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 06:50:55.314356 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 06:50:55.344551 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 07:15:34.860629 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 07:18:15.908097 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 07:18:27.034936 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 07:18:44.895205 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 07:18:56.283024 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 08:53:28.892115 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 08:53:34.540843 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 08:53:38.763995 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 08:53:47.632657 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 08:59:54.604801 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 09:03:05.532028 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 09:04:10.970653 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 09:04:56.059047 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 09:05:54.078180 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 09:05:59.307351 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 09:06:05.281255 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 09:21:22.070916 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 09:21:38.889252 (MainThread): The 'warn' method is deprecated, use 'warning' instead
+2022-09-06 10:09:12.163260 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:09:47.924616 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:10:53.152644 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 10:30:14.844030 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:30:43.989793 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:32:30.808340 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:32:30.832421 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 10:32:53.460333 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 10:33:46.664055 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:33:46.681250 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 10:34:01.742734 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 10:37:04.597154 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:37:04.612452 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:37:04.613582 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:37:04.634463 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:37:04.640501 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:37:42.068369 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:37:42.085611 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:37:42.087614 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:37:42.107614 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:37:42.112615 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:38:29.099286 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:38:29.114285 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:38:29.115286 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:38:29.136287 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:38:29.142286 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-06 10:39:06.443308 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 10:39:16.585800 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-06 11:41:13.204306 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-13 04:18:52.842302 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-13 04:19:00.258203 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-13 04:19:13.179464 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-15 08:41:36.764333 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-15 08:41:36.790426 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-15 08:41:36.791424 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-15 08:41:36.792430 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-15 08:41:36.798616 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-15 08:41:36.825693 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-15 08:41:42.128849 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-16 06:12:41.352648 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-16 06:12:41.399763 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-16 06:12:41.401748 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-16 06:12:41.402747 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-16 06:12:41.411992 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-09-16 06:12:41.470277 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-16 06:14:45.235128 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-09-16 06:16:10.734409 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-10-18 07:25:55.155264 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-18 07:25:55.193317 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-18 07:25:55.196524 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-18 07:25:55.198884 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-18 07:25:55.211701 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-18 07:25:55.252569 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-10-19 10:38:53.155169 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-19 10:38:53.193122 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-19 10:38:53.194120 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-19 10:38:53.196119 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-19 10:38:53.202119 (MainThread): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-10-19 10:38:53.237321 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-10-19 10:40:30.364143 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
