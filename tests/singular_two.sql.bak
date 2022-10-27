@@ -1,0 +1,3 @@
+select 
+  movieID from {{ ref('third_model' )}}
+  where movieID is unique 
