@@ -1,0 +1,14 @@
+exposures:
+  
+  - name: first_exposure
+    type: dashboard
+    description: >
+      Did someone say "exponential growth"?
+    
+    depends_on:
+      - ref('my_first_dbt_model')
+      - source('movies')
+      
+    owner:
+      name: Yamini
+      email: yamini.v@sonata-software.com
