@@ -1,0 +1,13 @@
+{{ config (
+    materialized="table"
+)}} 
+
+
+with sourcemodel as (
+select *
+from {{ref('sample_data.movies')}}
+),
+
+final as (
+SELECT movieId, title FROM sourcemodel
+)

@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: movies
+    description : "A dataset consisting of top movies along with their genres and release years"
+    schema: model_schema
+    tables:
+      - name: movies
+      
+  

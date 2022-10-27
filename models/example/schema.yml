@@ -1,0 +1,55 @@
+
+version: 2
+
+sources:
+  - name: data
+    description : "A dataset consisting of top movies along with their genres and release years"
+    schema: model_schema
+    tables:
+      - name: movies
+
+
+models:
+  - name: my_first_dbt_model
+    description: "Model retrieves ID and title columns from source." 
+    columns:
+      - name: title
+        description: "{{ doc('order_status') }}"
+        tests:
+          - not_null
+          
+  - name: second_model
+    description: "Model combines genres from seed data with columns from first model. It also ranks the entries according to their titles."
+    columns:
+      - name: title
+        description: "title of movies"
+        tests:
+          - not_null
+          
+  - name: third_model
+    description: "Model combines movieID from the first model and corresponding ranks from the second_model."
+    columns:
+      - name: movieId
+        description: "title of movies"
+        tests:
+          - not_null
+          - customised_generic
+          
+  
+
+
+exposures:
+  
+  - name: first_exposure
+    type: dashboard
+    description:  "Description about famous movies"
+    
+    depends_on:
+      - source('data', 'movies')
+      - ref('my_first_dbt_model')
+      - ref('second_model')
+      - ref('third_model')
+      
+    owner:
+      name: Yamini
+      email: yamini.v@sonata-software.com
