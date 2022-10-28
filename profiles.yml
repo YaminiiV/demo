@@ -1,0 +1,210 @@
+secProject:
+  target: dev
+  outputs:
+    dev:
+      type: mysql
+      server: [server/host]
+      port: [port]  # optional
+      database: [schema] # optional, should be same as schema
+      schema: [schema]
+      username: [username]
+      password: [password]
+      driver: MySQL ODBC 8.0 ANSI Driver
+    prod:
+      type: mysql
+      server: [server/host]
+      port: [port]  # optional
+      database: [schema] # optional, should be same as schema
+      schema: [schema]
+      username: [username]
+      password: [password]
+      driver: MySQL ODBC 8.0 ANSI Driver
+
+demoproject:
+  target: dev
+  outputs:
+    dev:
+      type: mysql
+      server: localhost
+      schema: latest
+      username: yamini
+      password: Latha@9611
+      driver: MySQL ODBC 8.0 ANSI Driver
+    prod:
+      type: mysql
+      server: [server/host]
+      port: [port]  # optional
+      database: [schema] # optional, should be same as schema
+      schema: [schema]
+      username: [username]
+      password: [password]
+      driver: MySQL ODBC 8.0 ANSI Driver
+
+projecttwelve:
+  target: dev
+  outputs:
+    dev:
+      type: mysql
+      server: localhost
+      schema: model_schema
+      username: yamini
+      password: Latha@9611
+      driver: MySQL ODBC 8.0 ANSI Driver
+    prod:
+      type: mariadb
+      server: [server/host]
+      port: [port]  # optional
+      database: [schema] # optional, should be same as schema
+      schema: [schema]
+      username: [username]
+      password: [password]
+      driver: MySQL ODBC 8.0 ANSI Driver
+
+projFourteen:
+  target: dev
+  outputs:
+    dev:
+      type: mysql
+      server: localhost
+      schema: model_schema
+      username: yamini
+      password: Latha@9611
+      driver: MySQL ODBC 8.0 ANSI Driver
+    prod:
+      type: mariadb
+      server: [server/host]
+      port: [port]  # optional
+      database: [schema] # optional, should be same as schema
+      schema: [schema]
+      username: [username]
+      password: [password]
+      driver: MySQL ODBC 8.0 ANSI Driver
+
+projFifteen:
+  target: dev
+  outputs:
+    dev:
+      type: mysql
+      server: localhost
+      schema: model_schema
+      username: yamini
+      password: Latha@9611
+      driver: MySQL ODBC 8.0 ANSI Driver
+    prod:
+      type: mysql
+      server: localhost
+      schema: prod_chema
+      username: yamini
+      password: Latha@9611
+      driver: MySQL ODBC 8.0 ANSI Driver
+
+projSixteen:
+  target: dev
+  outputs:
+    dev:
+      type: mysql
+      server: localhost
+      schema: model_schema
+      username: yamini
+      password: Latha@9611
+      driver: MySQL ODBC 8.0 ANSI Driver
+    prod:
+      type: mysql
+      server: [server/host]
+      port: [port]  # optional
+      database: [schema] # optional, should be same as schema
+      schema: [schema]
+      username: [username]
+      password: [password]
+      driver: MySQL ODBC 8.0 ANSI Driver
+
+projseventeen:
+  outputs:
+
+    dev:
+      type: postgres
+      threads: 10
+      host: localhost
+      port: 5432
+      user: postgres
+      pass: Latha@9611
+      dbname: dbtdb
+      schema: public 
+
+    prod:
+      type: postgres
+      threads: [1 or more]
+      host: [host]
+      port: [port]
+      user: [prod_username]
+      pass: [prod_password]
+      dbname: [dbname]
+      schema: [prod_schema]
+
+  target: dev
+
+proj2:
+  target: dev
+  outputs:
+    dev:
+      type: mysql
+      server: [server/host]
+      port: [port]  # optional
+      database: [schema] # optional, should be same as schema
+      schema: [schema]
+      username: [username]
+      password: [password]
+      driver: MySQL ODBC 8.0 ANSI Driver
+    prod:
+      type: mysql
+      server: [server/host]
+      port: [port]  # optional
+      database: [schema] # optional, should be same as schema
+      schema: [schema]
+      username: [username]
+      password: [password]
+      driver: MySQL ODBC 8.0 ANSI Driver
+
+newproject:
+  target: dev
+  outputs:
+    dev:
+      type: mysql
+      server: [server/host]
+      port: [port]  # optional
+      database: [schema] # optional, should be same as schema
+      schema: [schema]
+      username: [username]
+      password: [password]
+      driver: MySQL ODBC 8.0 ANSI Driver
+    prod:
+      type: mysql
+      server: [server/host]
+      port: [port]  # optional
+      database: [schema] # optional, should be same as schema
+      schema: [schema]
+      username: [username]
+      password: [password]
+      driver: MySQL ODBC 8.0 ANSI Driver
+
+newproj2:
+  target: dev
+  outputs:
+    dev:
+      type: mysql
+      server: [server/host]
+      port: [port]  # optional
+      database: [schema] # optional, should be same as schema
+      schema: [schema]
+      username: [username]
+      password: [password]
+      driver: MySQL ODBC 8.0 ANSI Driver
+    prod:
+      type: mysql
+      server: [server/host]
+      port: [port]  # optional
+      database: [schema] # optional, should be same as schema
+      schema: [schema]
+      username: [username]
+      password: [password]
+      driver: MySQL ODBC 8.0 ANSI Driver
